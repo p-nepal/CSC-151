@@ -124,4 +124,5 @@ public class NepalPranay_Hello_Goodbye_250130_01
             "Result",
             JOptionPane.INFORMATION_MESSAGE);
     }
+    System.exit(0);
 }
